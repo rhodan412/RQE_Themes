@@ -25,4 +25,4 @@ RQE remains fully usable without this companion addon. RQE's existing profiles s
 
 For RQE controls and questing features, see the [main addon's README and wiki](https://github.com/rhodan412/RQE). Report a problem with this companion addon in [RQE Themes issues](https://github.com/rhodan412/RQE_Themes/issues); report a core RQE problem in [RQE issues](https://github.com/rhodan412/RQE/issues).
 
-New themes can be added here without a new RQE release when they use the existing theme registration interface. Theme definitions, defaults, and runtime artwork live in RQE Themes. Named font color choices live in RQE so they remain available even when RQE Themes is not installed. See [AGENTS.md](AGENTS.md) for the artwork dimensions and integration checklist.
+New themes can be added here without a new RQE release when they use the existing theme registration interface. Theme definitions, defaults, and runtime artwork live in RQE Themes. Named font color choices live in RQE so they remain available even when RQE Themes is not installed.
