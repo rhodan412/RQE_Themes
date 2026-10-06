@@ -4,7 +4,7 @@
 
 RQE Themes is a companion addon for [RQE – Rhodan's Quest Explorer](https://github.com/rhodan412/RQE). It adds optional appearances for RQE's Quest Helper, Quest Tracker, and Magic Button. The initial release includes **Burning Legion**, with fel-lit iron, molten bronze, and infernal green artwork.
 
-[Get the main RQE addon on CurseForge](https://www.curseforge.com/wow/addons/rqe-rhodans-quest-explorer) · [RQE source and player guide](https://github.com/rhodan412/RQE)
+[Get the main RQE addon on CurseForge](https://www.curseforge.com/wow/addons/rqe-rhodans-quest-explorer)
 
 ## Install and select a theme
 
