@@ -1,0 +1,8 @@
+## Interface: 120100, 120105, 120107, 120200, 120250, 120270
+## Title: RQE Themes
+## Notes: Additional themes for Rhodan's Quest Explorer.
+## Author: Rhodan {Aurleis}
+## Dependencies: RQE
+## IconTexture: Interface\AddOns\RQE\Textures\rhodan.tga
+
+RQE_Themes.lua
