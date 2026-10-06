@@ -1,0 +1,9 @@
+v12.1.0.0 (2026-10-06)
+
+HIGHLIGHTS:
+- Initial release of RQE Themes, a companion addon for RQE – Rhodan's Quest Explorer.
+- Added the Burning Legion appearance for the Quest Helper, Quest Tracker, and Magic Button, including matching frames, headers, buttons, and icons.
+- Added Sargeras, Fel Reaver, and Legion Warships background pictures and theme-specific card artwork for timed scenarios, dungeons, Delves, and Torghast.
+- Added theme defaults and previews while keeping player adjustments in RQE's existing profiles.
+
+Requires RQE 12.1.0.15 or newer and WoW Retail.
