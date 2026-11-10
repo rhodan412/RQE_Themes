@@ -2,6 +2,7 @@
 ## Title: RQE Themes
 ## Notes: Additional themes for Rhodan's Quest Explorer.
 ## Author: Rhodan {Aurleis}
+## Version: 12.1.5.0
 ## Dependencies: RQE
 ## IconTexture: Interface\AddOns\RQE\Textures\rhodan.tga
 
